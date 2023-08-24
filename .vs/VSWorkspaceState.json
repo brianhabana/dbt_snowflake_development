@@ -1,0 +1,14 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\analyses",
+    "\\macros",
+    "\\models",
+    "\\models\\example",
+    "\\seeds",
+    "\\snapshots",
+    "\\tests"
+  ],
+  "SelectedNode": "\\models\\example\\my_first_dbt_model.sql",
+  "PreviewInSolutionExplorer": false
+}
